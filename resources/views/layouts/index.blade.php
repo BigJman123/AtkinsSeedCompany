@@ -14,7 +14,7 @@
       </div>
 
       <div class="row justify-content-center image">
-        <img src="assets/AtkinsSeedStaff.png" style="width:100%; height: 100%">
+        <img src="assets/AtkinsSeedStaff.png" style="width:100%; height: 100%;">
       </div>
 
       <div class="row col-10 justify-content-center">
