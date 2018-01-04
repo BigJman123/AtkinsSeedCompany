@@ -3,7 +3,7 @@
 @section('content')
 <div class="container box">
 	<div class="d-flex flex-row contact justify-content-center">
-		<div style="padding-top: 150px">
+		<div class="padtoptext" style="padding-top: 150px">
 			<h3>Contact Us</h3>
 
 			<p>
@@ -19,7 +19,7 @@
 			</p>
 		</div>
 
-		<div class="padtop" style="padding-top: 100px">
+		<div class="padtopimg" style="padding-top: 100px">
 			<img src="assets/AtkinsSeed.png" style="width: 100%">
 		</div>
 	</div>

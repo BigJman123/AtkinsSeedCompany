@@ -52,7 +52,11 @@ body {
 		flex-wrap: wrap;
 	}
 
-	.padtop {
+	.padtoptext {
+		padding-top: 95px !important;
+	}
+
+	.padtopimg {
 		padding-top: 0px !important;
 	}
 }
