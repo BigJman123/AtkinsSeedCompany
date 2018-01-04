@@ -3,8 +3,8 @@
 @section('content')
 <div class="container">
   <div class="row justify-content-center">
-      <div class="justify-content-center">
-        <h3 style="padding-top: 100px; font-size: 30px">Welcome to Atkins' Seed Service!</h3>
+      <div class="row col justify-content-center">
+        <h3 style="padding-top: 100px;">Welcome to Atkins' Seed Service!</h3>
       </div>
 
       <div class="row col-12 justify-content-center">
@@ -29,7 +29,7 @@
         </p>
       </div>
 
-      <div class="col-10 contact">
+      <div class="col-12 card-width">
         <div class="card-deck">
           <div class="card">
             <div class="card-body">
