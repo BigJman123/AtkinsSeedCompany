@@ -1,0 +1,65 @@
+/* Show it is fixed to the top */
+/*body {
+  min-height: 75rem;
+  padding-top: 4.5rem;
+}*/
+
+.navbar {
+	background-color: #006400;
+}
+
+.logo {
+	position: static;
+	height: 50px;
+	border-radius: 5px;
+}
+
+.header {
+	padding-top: 100px;
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.image {
+	display: flex;
+	justify-content: center;
+	/*width: 100%;
+	height: auto;
+	max-width: 600px;*/
+}
+
+.contact {
+	padding-bottom: 50px;
+}
+
+.planting {
+	padding-top: 100px;
+}
+
+.pioneer {
+	padding-top: 100px;
+}
+
+.insurance {
+	padding-top: 100px;
+}
+
+.box {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.contact {
+	padding-top: 100px;
+	/*max-width:675px;*/
+	/*flex-wrap: wrap;*/
+	/*flex-grow: 1;*/
+}
+
+.img {
+	padding-top: 100px;
+	/*min-width: 100px;*/
+	/*flex-wrap: wrap;*/
+	/*flex-grow: 1;*/
+}
